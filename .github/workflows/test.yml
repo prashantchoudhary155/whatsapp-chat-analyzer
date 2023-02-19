@@ -7,5 +7,5 @@ jobs :
   test:
     runs-on : ubuntu-latest
     steps:
-      name : print
+      - name : print
       run : echo "hello world"
