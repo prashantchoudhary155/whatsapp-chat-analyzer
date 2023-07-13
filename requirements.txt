@@ -5,3 +5,4 @@ urlextract
 wordcloud
 pandas
 emoji
+urllib3==1.26.6
